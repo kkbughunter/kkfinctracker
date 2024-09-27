@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "437422277302",
+    "firebase_url": "https://project1-ac5cd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project1-ac5cd",
+    "storage_bucket": "project1-ac5cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437422277302:android:15f339142b8debbf591c17",
+        "android_client_info": {
+          "package_name": "com.example.kkfinctracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUe1I1i3sr7p3cCOdfk892lUhkwz2kuaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
